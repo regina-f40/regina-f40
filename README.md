@@ -2,7 +2,7 @@
 - 👀 I’m interested in photo and video
 - 🌱 I’m currently learning Back End Engineer
 - 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me https://www.linkedin.com/in/regina-fayzullina-500401214/
+- 📫 How to reach me https://www.linkedin.com/in/regina-fayzullina/
 
 <!---
 regina-f40/regina-f40 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
