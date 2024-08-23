@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Regina
 - 👀 I’m interested in photo and video
 - 🌱 I’m currently learning Front End and Back End Engineer
-- 💞️ I’m looking to collaborate on Java Script
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me https://www.linkedin.com/in/regina-fayzullina/
 
 <!---
